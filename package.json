@@ -1,0 +1,22 @@
+{
+  "name": "aws-email-verify-email",
+  "version": "1.0.0",
+  "description": "lambda function send email containing link to verify user's email",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sglearn/aws-email-verify-email.git"
+  },
+  "author": "duongtdn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/duongtdn/aaws-email-verify-email/issues"
+  },
+  "homepage": "https://github.com/duongtdn/aws-email-verify-email#readme",
+  "dependencies": {
+    "aws-sdk": "^2.331.0"
+  }
+}
